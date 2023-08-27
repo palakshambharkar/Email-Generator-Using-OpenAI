@@ -1,5 +1,4 @@
 # Email Generator Using OpenAI
-_____
 
 > Deployment Site @https://yuvi-email-generator.streamlit.app/
 
